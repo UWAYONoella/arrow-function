@@ -1,0 +1,47 @@
+body{
+    background-color: white;
+}
+#he{
+    width: 1000px;
+    height: 600px;
+    background-color: rgb(191, 173, 173);
+  
+    margin-left: 200px;
+}
+
+.he1{
+    width: 1000px;
+    height: 70px;
+    background-color:yellow;
+}
+.linko{
+    width: 1000px;
+    height: 90px;
+    background-color:rgb(155, 155, 149);
+    
+}
+
+.about{
+    background-color: yellow;
+    width: 1000px;
+    height: 500px;
+}
+.lft{
+    background-color: green;
+    height: 400px;
+    width: 500px;
+    
+}
+.rgt{
+    background-color: rgb(56, 195, 56);
+    height: 400px;
+    width: 500px;
+    margin-left: 500px;
+    margin-top: -400px;
+    
+}
+.but{
+    height: 100px;
+    width: 1000px;
+    background-color: brown;
+}
